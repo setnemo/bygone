@@ -16,4 +16,15 @@ Save your old buggy code as a souvenir
 - open Actions > archivist and press 'Run workflow'
 - enjoy!
 
-Example arhive repo: [setnemo/arhive](https://github.com/setnemo/arhive)
+Example arhive repo: [setnemo/arhive](https://github.com/setnemo/archive/tree/main/setnemo)
+
+## What will be added to the archive?
+
+Bygone create new folder like username/projectName/branchName and save all branches with git history.
+
+## How can I archive more than one project?
+
+Just update ARCHIVED_REPOSITORY to another repo and run workflow again
+
+----
+> MIT License, Artem Pakhomov, 2021
