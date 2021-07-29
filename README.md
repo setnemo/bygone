@@ -15,3 +15,5 @@ Save your old buggy code as a souvenir
   - WRITE_GITHUB_TOKEN - your github api token with write rules for pushing to arhive repo
 - open Actions > archivist and press 'Run workflow'
 - enjoy!
+
+Example arhive repo: [setnemo/arhive](https://github.com/setnemo/arhive)
