@@ -1,6 +1,6 @@
 # Bygone project
 
-Save your old buggy code as a souvenir
+Save your old buggy code as a souvenir (git history included)
 
 
 ## How it work?
