@@ -24,6 +24,7 @@ Save your old buggy code as a souvenir (git history included)
     - WRITE_GITHUB_TOKEN - your github api token from step 1.
 5. Open [Actions > archivist](../../actions/workflows/main.yml) and press 'Run workflow'
 6. Enjoy!
+7. Star [this repo](https://github.com/setnemo/bygone) if you like it!
 
 ## Example archive
 
